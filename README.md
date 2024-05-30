@@ -1,2 +1,2 @@
 # python-examples
-A collection of phython tutorials and experiments
+A collection of python tutorials and experiments
