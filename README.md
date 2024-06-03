@@ -5,4 +5,4 @@ A collection of python tutorials and experiments from the tutorial [Mastering th
 
 - [gameloop.py](/python/gameloop.py) - A basic gameloop
 - [shapes.py](/python/shapes.py) - Drawing shapes on a surface
-
+- [keyboard-events.py](/python/keyboard-events.py) - Keyboard events to move a basic square up, down, left and right on a keypress, with a clock tick to keep a consistent performance across devices
