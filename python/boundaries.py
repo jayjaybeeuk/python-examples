@@ -6,7 +6,7 @@ w_width = 800
 w_height = 600
 screen  = pygame.display.set_mode((w_width, w_height))
 screen.fill((255, 255, 255))
-pygame.display.set_caption("Handling keyboard events")
+pygame.display.set_caption("Adding boundaries")
 
 # creating object
 x = 0
